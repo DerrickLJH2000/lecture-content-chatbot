@@ -101,8 +101,8 @@ This is an example of how to list things you need to use the software and how to
 ## Sample Usage
 
 <div style="display:flex;">
-  <img src="assets/sample1.png" alt="Image 1" width="50%" />
-  <img src="assets/sample2.png" alt="Image 2" width="50%" />
+  <img src="assets/sample1.png" alt="Image 1" width="49%" />
+  <img src="assets/sample2.png" alt="Image 2" width="49%" />
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
