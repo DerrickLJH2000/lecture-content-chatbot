@@ -58,10 +58,10 @@ Students tend to look back at their lecture materials in modules that they have 
 ## Product Description
 The Lecture Content Chatbot leverages:
 <ol>
-  <li>Langchain: Framework to construct LLM-powered applications,</li>
-  <li>Pinecone: Vector Database to store all documents as vector embeddings,</li>
+  <li>Langchain: Framework to construct LLM-powered applications</li>
+  <li>Pinecone: Vector Database to store all documents as vector embeddings</li>
   <li>OpenAI: Large Language Model utilized by the application</li>
-  <li>Streamlit: An open-source framework to rapidly build machine learning and data science web applications used for our user interface.</li>
+  <li>Streamlit: An open-source framework to rapidly build machine learning and data science web applications used for application user interface</li>
 <ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
